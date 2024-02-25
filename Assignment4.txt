@@ -1,0 +1,18 @@
+Git Commands 
+
+1  First We need to configure GIT account by using below commands through GIT shell 
+           git config --global user.name "Usha C A"
+           git config --global user.email ushamani709@gmail.com
+
+2  Repository wont update untill we do commit 
+   Commit 
+
+3 initiating git Repository by using 
+  git init 
+
+4 Creating a new folder or file we can use 
+  git add newfilename / folder name 
+
+
+5 committing the changes of our code 
+    git commit –m “My first assignments”

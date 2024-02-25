@@ -16,3 +16,20 @@ Git Commands
 
 5 committing the changes of our code 
     git commit –m “My first assignments”
+
+6 Creating a git branch
+    git branch branch_name 
+
+7 Change branches 
+   git checkout branch_name
+
+8 Check list of the commits , time , author,  message  
+  git  log 
+
+9 check file status 
+git status
+
+10 merge branches 
+   git merge branch_names 
+
+11 

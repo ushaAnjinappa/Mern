@@ -32,4 +32,9 @@ git status
 10 merge branches 
    git merge branch_names 
 
-11 
+11 Remote Repository
+git remote add origin https://github.com/ushaAnjinappa/Mern.git
+
+12 push the code to remote Repository
+   git push -u origin main
+
